@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LineMat
+  m_Shader: {fileID: -6465566751694194690, guid: 918af341f1fed42fbbe1e5ccf1314ac3, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_4870999386f84e86a64b74f81cd80f57: 50
+    - Vector1_b97f7398110747e5913c5525ba404245: 10
+    m_Colors:
+    - Color_9714b7edef8e40bd86f182c39eb0c1a9: {r: 0.87703955, g: 0.67657334, b: 4.78613, a: 1}
+    - Vector2_b25fd9518ad5462880ec459b77e24212: {r: -0.2, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []
